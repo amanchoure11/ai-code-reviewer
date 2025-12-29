@@ -1,5 +1,6 @@
 import dotenv from "dotenv";
 import app from "./src/app.js";
+import {BACKEND_URL} from "../utils/utils"
 
 dotenv.config();
 
