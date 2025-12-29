@@ -1,5 +1,5 @@
 import { useState, useEffect } from 'react'
-import {BACKEND_URL} from "../utils/utils.js"
+import {BACKEND_URL} from "./utils/utils.js"
 import "prismjs/themes/prism-tomorrow.css"
 import Editor from "react-simple-code-editor"
 import prism from "prismjs"
