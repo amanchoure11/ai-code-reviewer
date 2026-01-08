@@ -32,4 +32,4 @@ Helps developers transform working code into **high-quality, production-ready so
 ---
 
 ## 🚀 Use Case
-Ideal for developers who want **industry-level code feedback** and **production-ready improvements** before deploying their software.
+Ideal for developers who want **industry-level code feedback** and **production-ready improvements** before deployment.
